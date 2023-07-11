@@ -1,0 +1,139 @@
+.big1{
+    position: absolute;
+    width: 1440px;
+    height: 800px;
+    left: 0px;
+    top: 0px;
+    background: #1C1C1C;
+    }
+    .rey{
+    position: absolute;
+    width: 121px;
+    height: 33px;
+    left: 165px;
+    top: 33px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 33px;
+    display: flex;
+    align-items: center;
+    color: #F1F1F1;
+    }
+    .home{
+        position: absolute;
+        top: 38px;
+        left: 935px;
+        width: 49px;
+        height: 24px;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 24px;
+        text-align: center;
+        color: #EEBF63;
+        
+    }
+    .about{
+        position: absolute;
+        top: 38px;
+        left: 1024px;
+        width: 49px;
+        height: 24px;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+        text-align: center;
+        color: #F1F1F1;
+    }
+    .projectss{
+        position: absolute;
+        top: 38px;
+        left: 1113px;
+        width: 56px;
+        height: 24px;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+        text-align: center;
+        color: #F1F1F1;
+    }
+    .contac{
+        position: absolute;
+        top: 38px;
+        left: 1209px;
+        width: 66px;
+        height: 24px;  
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+        text-align: center;
+        color: #F1F1F1;
+    }
+    .rasm{
+        position: absolute;
+width: 380px;
+height: 458px;
+left: 165px;
+top: 171px;
+background: url(2.jpg);
+border-radius: 30px;
+}
+h1{
+    position: absolute;
+width: 274px;
+height: 72px;
+left: 639px;
+top: 171px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 72px;
+/* identical to box height */
+/* #F1F1F1 */
+color: #F1F1F1;
+} 
+h3{
+    position: absolute;
+    width: 165px;
+    height: 27px;
+    left: 638px;
+    top: 243px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+    
+    
+    /* #F1F1F1 */
+    
+    color: #F1F1F1;
+    
+}
+p{
+    position: absolute;
+width: 636px;
+height: 60px;
+left: 639px;
+top: 285px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 30px;
+/* or 167% */
+/* #F1F1F1 */
+color: #F1F1F1;
+}
